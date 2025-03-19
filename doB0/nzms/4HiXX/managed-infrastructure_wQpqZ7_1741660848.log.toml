@@ -1,4 +1,3 @@
 [chef-infra-client]
 build_targets = [
-  "x86_64-windows"
 ]
