@@ -292,7 +292,6 @@ Once you have done the pre-release checks above, follow the steps below to publi
    - `git checkout production && git merge master && git push`
  - Tag production with the version number, and push
    - e.g. `git tag 2.10.2 && git push --tags`
- - Build Onsen UI
    - `cd onsenui && npm run build`
    - This builds Onsen UI.
  - Publish to npm. This should be run from the `./onsenui` directory.
