@@ -1,5 +1,4 @@
 // @ts-check
-const emotionPlugin = require('@emotion/eslint-plugin');
 const importPlugin = require('eslint-plugin-import');
 const jestPlugin = require('eslint-plugin-jest');
 const jsxA11yPlugin = require('eslint-plugin-jsx-a11y');
