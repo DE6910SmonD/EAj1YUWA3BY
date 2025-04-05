@@ -1,6 +1,5 @@
 # Mr. Ranedeer v2.7 (Current Version)
 
-1. Re-arranged prompt to improve effectiveness
 2. Added "Overall Rules to follow" header
 3. Added a little personality to Mr. Ranedeer
 4. Gave Mr. Ranedeer more freedom on what to say
