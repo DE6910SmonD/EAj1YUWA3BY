@@ -162,7 +162,6 @@ To work on the AngularJS bindings:
 	cd onsenui/bindings/angular1
 	npm install
 	npm run build
-	npm run serve
 
 
 Code Style
