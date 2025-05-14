@@ -262,7 +262,6 @@ Once this is all set up, follow these steps to modify the documentation.
 
 The React documentation is built separately and cached because it takes a while to build. So, if you make changes to the documentation of React bindings, ensure you follow step 3 or you may not see your changes reflected.
 
-
 Release Procedure
 -----------------
 
